@@ -4,8 +4,8 @@ title: "Contact"
 excerpt: "Contact"
 author_profile: true
 redirect_from:
-  - /contact/
-  - /contact.html
+  - /contact
+#  - /contact.html
 ---
 
 Institute of Mathematics and Computer Sciences, University of São Paulo
