@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberto Rocha"
-  avatar           : 
+#  avatar           : 
   bio              : "Research Assistant, Computer Science, University of São Paulo"
   location         : "São Carlos, Brazil"
   employer         :
