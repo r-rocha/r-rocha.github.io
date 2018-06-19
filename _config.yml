@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "dos Santos Rocha, Roberto | Roberto Rocha"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Roberto Rocha"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://r-rocha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "r-rocha/r-rocha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Roberto Rocha"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Assistant, Computer Science, University of São Paulo"
+  location         : "São Carlos, Brazil"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en"
+  email            : "rsrocha@usp.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "r-rocha"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2013-2134"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -296,10 +296,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+    
+theme: jekyll-theme-merlot
