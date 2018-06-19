@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dos Santos Rocha, Roberto | Roberto Rocha"
+title                    : "Roberto Rocha"
 title_separator          : "-"
 name                     : &name "Roberto Rocha"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberto Rocha"
-  avatar           : "profile.png"
+  avatar           : "roberto.jpg"
   bio              : "Research Assistant, Computer Science, University of São Paulo"
   location         : "São Carlos, Brazil"
   employer         :
