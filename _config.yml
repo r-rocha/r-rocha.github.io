@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberto Rocha"
-  avatar           : "logo-icmc.png"
+  avatar           : "coffee.png"
   bio              : "Research Assistant, Computer Science, University of São Paulo"
   location         : "São Carlos, Brazil"
   employer         :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -302,5 +302,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # theme: jekyll-theme-merlot
