@@ -1,11 +1,8 @@
 ---
+layout: archive
 title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
-permanlink: /contact
-redirect_from:
-  - /contact
-  - /contact.html
 ---
 
 Institute of Mathematics and Computer Sciences, University of São Paulo<br>
