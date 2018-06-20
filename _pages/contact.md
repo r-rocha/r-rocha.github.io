@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<b>Institute of Mathematics and Computer Sciences<\b><br>
+<b>Institute of Mathematics and Computer Sciences</b><br>
   Roberto Rocha<br>
   Av. Trab. São-Carlense, 400, 13566-590<br>
   São Carlos, SP Brazil
