@@ -16,7 +16,7 @@ Education
 * B.S. in Business Administration, Faculty of Technology and Sciences, Vitória da Conquista, Brazil, 2006
 * M.S. in Information Systems, University of São Paulo, 2012
 
-Work experience
+Work Experience
 ======
 * 2016: Research Assistant
   * European Research Center for Information Systems
