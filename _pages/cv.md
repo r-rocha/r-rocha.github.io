@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br>
-[Click to view my up-to-date Curriculum Vitae [PDF]](http://r-rocha.github.io/files/cv_roberto.pdf)
+[Click to view my up-to-date CV](http://r-rocha.github.io/files/cv_roberto.pdf)
 
 Education
 -----
