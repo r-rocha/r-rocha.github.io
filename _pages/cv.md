@@ -12,7 +12,7 @@ redirect_from:
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://r-rocha.github.io/files/roberto_cv.pdf)
 
 Education
-======
+-----
 * B.S. in Business Administration, Faculty of Technology and Sciences, Vitória da Conquista, Brazil, 2006
 * M.S. in Information Systems, University of São Paulo, 2012
 
