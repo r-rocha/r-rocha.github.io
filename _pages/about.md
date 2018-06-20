@@ -12,4 +12,4 @@ I obtained bachelor’s degree in Business Administration from Faculty of Techno
 
 Currently, I am a PhD student at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of University of São Paulo. My main research interests are Human Factors in Computing Systems, Geographic Information Science (GIScience) and Collaborative Mapping.
 
-In 2006, I was a Marie Skłodowska-Curie Actions fellow at the [European Research Center for Information Systems](https://www.ercis.org/) in Münster, Germany. Currently, I am a Board Member of the Brazil Chapter of the [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/). 
+In 2016, I was a Marie Skłodowska-Curie Actions fellow at the [European Research Center for Information Systems](https://www.ercis.org/) in Münster, Germany. Currently, I am a Board Member of the Brazil Chapter of the [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/). 
