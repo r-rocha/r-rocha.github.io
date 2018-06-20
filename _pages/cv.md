@@ -1,15 +1,15 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: "Roberto Rocha"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Click to view my Curriculum Vitae [PDF](r-rocha.github.io/files/cv_roberto.pdf)
-
 {% include base_path %}
+
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://r-rocha.github.io/files/roberto_cv.pdf)
 
 Education
 ======
@@ -40,12 +40,6 @@ Skills
 * Written & Oral Communication
   * Prepare concise and logically-written materials
   * Organize and communicate ideas effectively in oral presentations to small and large groups
-
-# Publications
-# ======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
 
 Teaching
 ======
