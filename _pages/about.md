@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Roberto Rocha is Research Assistant at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of the [University of São Paulo](http://www5.usp.br/), in Brazil. In 2006, he was a Marie Skłodowska-Curie Actions fellow at the [European Research Center for Information Systems](https://www.ercis.org/) hosted by the University of Münster, Germany.
+I obtained bachelor’s degree in Business Administration from Faculty of Technology and Sciences (FTC), Brazil in 2016 and Master of Science in Information Systems from University of [University of São Paulo](http://www.usp.br/) in 2012.
 
-Currently, he is serving as a Marie Curie Alumni Association Brazil Chapter board member. He received his bachelor’s degree in Business Administration from Faculty of Technology and Sciences (FTC), Brazil in 2016 and master’s degree in Information Systems from University of São Paulo in 2012. His main research interests include: Human Factors in Computing Systems, Collaborative Systems, Geographic Information Science and Collaborative Mapping.
+Currently, I am a PhD student at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of University of São Paulo. My main research interests are Human Factors in Computing Systems, Geographic Information Science (GIScience) and Collaborative Mapping.
+
+In 2006, I was a Marie Skłodowska-Curie Actions fellow at the [European Research Center for Information Systems](https://www.ercis.org/) hosted by the University of Münster, Germany. Currently, I am a Board Member of the Brazil Chapter of the [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/). 
