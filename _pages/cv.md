@@ -24,6 +24,12 @@ Work experience
 
 * 2006-present: Administrative Assistant
   * Federal University of Bahia, Brazil
+  
+Awards & Achievements
+======
+* Jan. 2016 EU Marie Skłodowska-Curie Fellowship, European Union.
+* Jan. 2015 Microsof Azure for Research Grant, Microsoft.
+* Jun. 2011 CAPES Master’s Degree Scholarship, CAPES.
 
 Skills
 ======
@@ -35,20 +41,14 @@ Skills
   * Prepare concise and logically-written materials
   * Organize and communicate ideas effectively in oral presentations to small and large groups
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Awards & Achievements
-======
-* Jan. 2016 EU Marie Skłodowska-Curie Fellowship, European Union.
-* Jan. 2015 Microsof Azure for Research Grant, Microsoft.
-* Jun. 2011 CAPES Master’s Degree Scholarship, CAPES.
