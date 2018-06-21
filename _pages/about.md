@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://r-rocha.github.io/images/sketch.jpg" alt="Photo""/> 
+  <img src="https://r-rocha.github.io/images/sketch.jpg"> 
 </p>
 
 
