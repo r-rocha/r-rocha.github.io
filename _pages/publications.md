@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications <br>
-
+## Publications
+<br>
 You can find my articles on my <u><a href="https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en"> Google Scholar</a></u> or <u><a href="https://www.researchgate.net/profile/Roberto_Rocha2">ResearchGate</a></u> profiles.
 
 <!-- {% if author.google-scholar %}
