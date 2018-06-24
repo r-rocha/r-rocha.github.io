@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications <br>
 
-You can find my articles on <u><a href="https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can find my articles on my <u><a href="https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en"> Google Scholar</a> or <u><a href="https://www.researchgate.net/profile/Roberto_Rocha2">ResearchGate</a> profiles.</u>
 
 <!-- {% if author.google-scholar %}
   You can also find my articles on <u><a href="{{author.google-scholar}}">my Google Scholar profile</a>.</u>
