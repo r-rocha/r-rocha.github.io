@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: ""
 permalink: /publications/
 author_profile: true
@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 
-You can find my articles on <u><a href="https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+<p style="margin-left: 40px"> You can find my articles on <u><a href="https://scholar.google.com/citations?user=7aSnMkQAAAAJ&hl=en">my Google Scholar profile</a>.</u></p>
 
 <!-- {% if author.google-scholar %}
   You can also find my articles on <u><a href="{{author.google-scholar}}">my Google Scholar profile</a>.</u>
