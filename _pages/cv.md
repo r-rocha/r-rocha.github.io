@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Curriculum Vitae
------
+<br>
 [Click to view my up-to-date CV](http://r-rocha.github.io/files/cv_roberto.pdf)
 
 ### Education
