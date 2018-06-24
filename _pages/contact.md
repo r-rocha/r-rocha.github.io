@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
 
+{% include base_path %}
+
+## Contact
 <b>Institute of Mathematics and Computer Sciences</b><br>
   Roberto Rocha<br>
   Av. Trab. São-Carlense, 400, 13566-590<br>
