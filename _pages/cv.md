@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br>
+
+## Curriculum Vitae
+
 [Click to view my up-to-date CV](http://r-rocha.github.io/files/cv_roberto.pdf)
 
 Education
@@ -30,16 +32,6 @@ Awards & Achievements
 * Jan. 2016 EU Marie Skłodowska-Curie Fellowship, European Union.
 * Jan. 2015 Microsof Azure for Research Grant, Microsoft.
 * Jun. 2011 CAPES Master’s Degree Scholarship, CAPES.
-
-Skills
------
-* Research & Information Management
-  * Identify sources of information applicable to a given problem
-  * Design and analyze surveys
-  * Develop organizing principles to effectively sort and evaluate data 
-* Written & Oral Communication
-  * Prepare concise and logically-written materials
-  * Organize and communicate ideas effectively in oral presentations to small and large groups
 
 Teaching
 -----
