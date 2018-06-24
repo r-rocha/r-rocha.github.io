@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained bachelor’s degree in Business Administration from Faculty of Technology and Sciences (FTC), Brazil in 2016 and Master of Science in Information Systems from University of [University of São Paulo](http://www.usp.br/) in 2012.
+I obtained bachelor’s degree in Business Administration from [Faculty of Technology and Sciences](http://site.ftc.edu.br/vitoria-da-conquista/home/), Brazil in 2016 and Master of Science in Information Systems from University of [University of São Paulo](http://www.usp.br/) in 2012.
 
 Currently, I am a PhD student at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of University of São Paulo. My main research interests are Human Factors in Computing Systems, Geographic Information Science (GIScience) and Collaborative Mapping.
 
