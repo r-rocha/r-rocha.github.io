@@ -19,7 +19,7 @@ Currently, I am a Ph.D. student at the [Institute of Mathematical and Computer S
 In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center for Information Systems](https://www.ercis.org/) in Muenster, Germany, and now I am currently a board member of [Brazil Chapter](https://www.mariecuriealumni.eu/groups/brazil-chapter) of [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/).
 
 <p>
-  <img src="mcaa.png" height="150" width="600" align="center">
+  <img src="r-rocha.github.io/images/mcaa-brazil.png" height="150" width="600" align="center">
 </p>
 
 <!-- <table>
