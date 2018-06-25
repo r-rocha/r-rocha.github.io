@@ -20,9 +20,12 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
 
 <table>
 <colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+  
 </colgroup>
 <!-- <thead>
 <tr class="header">
@@ -32,9 +35,11 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
 </thead> -->
 <tbody>
 <tr>
-<td markdown="span">Figure 1</td>
+<td markdown="span">ICMC Logo</td>
 <td markdown="span">Figure 2</td>
-<td markdown="span">Figure 3</td>
+<td markdown="span">Brazil Chapter Logo</td>
+<td markdown="span">Figure 4</td>
+<td markdown="span">MCAA Logo</td>
 </tr>
 <!-- <tr>
 <td markdown="span">Second column **fields**</td>
