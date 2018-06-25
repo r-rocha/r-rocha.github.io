@@ -20,31 +20,16 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
 
 <table>
 <colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-  
+<col width="100%" />  
 </colgroup>
 <!-- <thead>
 <tr class="header">
 <th>Field</th>
-<th>Description</th>
 </tr>
 </thead> -->
 <tbody>
 <tr>
 <td markdown="span"><img src="mcaa.png" height="150" width="600"></td>
-<td markdown="span"> </td>
-<td markdown="span"><img src="mcaa.png" height="150" width="600"></td>
-<td markdown="span"> </td>
-<td markdown="span"><img src="mcaa.png" height="150" width="600"></td>
 </tr>
-<!-- <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr> -->
 </tbody>
 </table>
