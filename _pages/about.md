@@ -35,7 +35,7 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
 </thead> -->
 <tbody>
 <tr>
-<td markdown="span">ICMC Logo</td>
+<td markdown="span"><img src="mcaa.png" height="220" width="213"></td>
 <td markdown="span">Figure 2</td>
 <td markdown="span">Brazil Chapter Logo</td>
 <td markdown="span">Figure 4</td>
