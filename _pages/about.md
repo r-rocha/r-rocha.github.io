@@ -32,8 +32,9 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
 </thead> -->
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">Figure 1</td>
+<td markdown="span">Figure 2</td>
+<td markdown="span">Figure 3</td>
 </tr>
 <!-- <tr>
 <td markdown="span">Second column **fields**</td>
