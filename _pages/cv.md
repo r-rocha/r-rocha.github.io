@@ -31,8 +31,8 @@ redirect_from:
 ### Awards & Achievements
 -----
 * Jan. 2016, <i>EU Marie Skłodowska-Curie Fellowship</i>, European Union.
-* Jan. 2015, Microsof Azure for Research Grant, Microsoft.
-* Jun. 2011, CAPES Master’s Degree Scholarship, CAPES.
+* Jan. 2015, <i>Microsof Azure for Research Grant</i>, Microsoft.
+* Jun. 2011, <i>CAPES Master’s Degree Scholarship</i>, CAPES.
 
 ### Teaching
 -----
