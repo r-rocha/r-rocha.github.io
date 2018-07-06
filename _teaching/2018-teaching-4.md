@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-teaching-3
 venue: "University of São Paulo, Computer Science"
-date: 2015-01-01
+date: 2018-07-01
 location: "São Carlos, SP, Brazil"
 ---
 
