@@ -14,7 +14,7 @@ redirect_from:
 <br>
 I obtained bachelor’s degree in Business Administration from [Faculty of Technology and Sciences](http://site.ftc.edu.br/vitoria-da-conquista/home/) in 2016, and Master of Science in Information Systems from [University of São Paulo](http://www.usp.br/) in 2012.
 
-Currently, I am a Ph.D. student at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of University of São Paulo. My main research interests are Human Factors in Computing Systems, Geographic Information Science (GIScience), and Collaborative Mapping.
+Currently, I am a doctoral student at the [Institute of Mathematical and Computer Sciences](https://www.icmc.usp.br/) of University of São Paulo. My main research interests are Human Factors in Computing Systems, Geographic Information Science (GIScience), and Collaborative Mapping.
 
 In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center for Information Systems](https://www.ercis.org/). Currently, I am serving as board member of the [Brazil Chapter](https://www.mariecuriealumni.eu/groups/brazil-chapter) of [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/).
 
