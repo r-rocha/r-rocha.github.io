@@ -13,22 +13,22 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### SCC0213, Scientific Methodology for Computer Science Research
+### [SCC0213, Scientific Methodology for Computer Science Research](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=scc0213)
    Undergraduate course, University of São Paulo, Computer Science, 2018
 
    To introduce the students to the basic elements of the scientific research, providing the necessary tools for the development of academic projects in the Computer Science area.
 
-### SSC0531, Information Systems Management
+### [SSC0531, Information Systems Management](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0531)
    Undergraduate course, University of São Paulo, Information Systems, 2015
 
    Presenting the main applications of Information Systems in contemporary organizations and the concepts of IT Governance and IT Service Managemen. Practical project in the analysis and design of IS solutions that are appropriate to the organizational context.
 
-### SSC0120, Information Systems
+### [SSC0120, Information Systems](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0120)
    Undergraduate course, University of São Paulo, Information Systems, 2015
 
    Introducing the fundamental concepts of Information Systems, as well as the current trends of Information Technologies and Information Systems in the context of organizations. Providing the student with an understanding of the relationship between the technical components of an Information System with the structure, function and politics of an organization.
 
-### ACH2067, Business Process Management
+### [ACH2067, Business Process Management](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=ACH2067)
    Undergraduate course, University of São Paulo, Information Systems, 2012
 
    Introducing the fundamental concepts of Business Process Management (BPMN) and Business Process Modeling and Notation (BPMN).
