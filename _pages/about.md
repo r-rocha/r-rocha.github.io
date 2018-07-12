@@ -22,8 +22,12 @@ In 2016, I was a Marie Skłodowska-Curie Fellow at the [European Research Center
   <img src="r-rocha.github.io/images/mcaa-logo.jpg" height="87" width="86" align="left">
 </p> -->
 
-<a href="https://www.mariecuriealumni.eu/">
+<!-- <a href="https://www.mariecuriealumni.eu/">
   <img src="r-rocha.github.io/images/group-brazil-header.png" alt="MCAA" class="center" style="width:400px;height:100px;border:0;">
+</a> -->
+
+<a href="https://www.mariecuriealumni.eu/">
+  <img src="r-rocha.github.io/images/mcaa-logo.jpg" alt="MCAA" class="center" style="width:86px;height:87px;border:0;">
 </a>
 
 <!-- <table>
