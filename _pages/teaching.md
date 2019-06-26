@@ -13,11 +13,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### [SCC0213, Scientific Methodology for Computer Science Research](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=scc0213)
-   Undergraduate course, University of São Paulo, Computer Science, 2018
-
-   To introduce the students to the basic elements of the scientific research, providing the necessary tools for the development of academic projects in the Computer Science area.
-
 ### [SSC0531, Information Systems Management](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0531)
    Undergraduate course, University of São Paulo, Information Systems, 2015
 
