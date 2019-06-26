@@ -11,7 +11,7 @@ redirect_from:
 
 ## Curriculum Vitae
 <br>
-[Click to view my up-to-date CV]("r-rocha.github.io/files/roberto-cv.pdf")
+[Click to view my up-to-date CV](https://r-rocha.github.io/files/roberto-cv.pdf)
 
 ### Education
 -----
