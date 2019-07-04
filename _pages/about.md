@@ -27,7 +27,7 @@ In 2016, I was a [Marie Skłodowska-Curie Fellow](https://ec.europa.eu/research/
 </a> -->
 
 <a>
-  <img src="r-rocha.github.io/images/GCE_Badges_01.png" alt="Google Certified Educator" align="right" style="width:150px;height:150px;border:0;">
+  <img src="r-rocha.github.io/images/GCE_Badges_01.png" alt="Google Certified Educator" align="left" style="width:150px;height:150px;border:0;">
 </a>
 
 <!-- <table>
